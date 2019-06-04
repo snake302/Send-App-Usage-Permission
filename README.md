@@ -82,7 +82,7 @@ switch(AppUsagePermission.status()){
   ``` 
   
 ## Credits
-[@kasabulatov](https://twitter.com/kasabulatov)
+[@kasabulatov](https://twitter.com/snake302)
 
 
 ## License
