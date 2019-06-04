@@ -1,4 +1,4 @@
-# Send App Usage Permission
+# Send App Usage Permission 
 
 After WWDC 2019 Apple [updated](https://developer.apple.com/app-store/review/guidelines/#5.1) the App Store Guidelines 
 > Guideline 5.1.1(i). Apps must get consent for data collection, even if the data is considered anonymous at the time of or immediately following collection.
@@ -6,6 +6,9 @@ After WWDC 2019 Apple [updated](https://developer.apple.com/app-store/review/gui
 > (ii) Permission Apps that collect user or usage data must secure user consent for the collection, **even if such data is considered to be anonymous** at the time of or immediately following collection.
 
 Inspired [WWDC App](https://itunes.apple.com/app/wwdc/id640199958?mt=8) I made class to help developers & community save time and comply with the App Store Guidelines.
+
+<a href="https://www.producthunt.com/posts/send-app-usage-permission?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-send-app-usage-permission" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=157412&theme=light" alt="Send App Usage Permission - Comply with the new App Store Guidelines | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
 
 <img width="250" src="/screens/IMG_0855.PNG"> <img width="250" src="/screens/IMG_3825.PNG">
 
@@ -83,6 +86,9 @@ switch(AppUsagePermission.status()){
   
 ## Credits
 [@kasabulatov](https://twitter.com/snake302)
+
+Join project on PH
+<a href="https://www.producthunt.com/posts/send-app-usage-permission?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-send-app-usage-permission" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=157412&theme=light" alt="Send App Usage Permission - Comply with the new App Store Guidelines | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 
 ## License
