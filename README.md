@@ -4,10 +4,9 @@ App Usage Permission Alert to comply with the new App Store Guidelines
 After WWDC 2019 Apple [updated](https://developer.apple.com/app-store/review/guidelines/#5.1) the App Store Guidelines 
 > Guideline 5.1.1(i). Apps must get consent for data collection, even if the data is considered anonymous at the time of or immediately following collection.
 
-I made class to help developers & community save time and comply with the App Store Guidelines.
+Inspired [WWDC App](https://itunes.apple.com/app/wwdc/id640199958?mt=8) I made class to help developers & community save time and comply with the App Store Guidelines.
 
-![WWDC App](wwdc-app.png)
-![Send App Usage Permission](screenshot1.png)
+<img width="250" src="/screens/IMG_0855.PNG"> <img width="250" src="/screens/IMG_3825.PNG">
 
 ## Installation
 
