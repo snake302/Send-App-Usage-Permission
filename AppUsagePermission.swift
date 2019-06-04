@@ -9,6 +9,13 @@
 import Foundation
 import UIKit
 
+enum PermissionStatus{
+    case allowed
+    case denied
+    case notAsked
+    case undefined
+}
+
 class AppUsagePermission{
     
     private static let alertTitle = "Send App Usage"
@@ -79,16 +86,5 @@ class AppUsagePermission{
         case .undefined: break;
         }
         UserDefaults.standard.set(valueToRecord, forKey: UserDefaultsKey)
-    }
-    
-    
-    
-}
-
-
-enum PermissionStatus{
-    case allowed
-    case denied
-    case notAsked
-    case undefined
+    }    
 }
