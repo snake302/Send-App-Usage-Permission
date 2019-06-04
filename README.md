@@ -6,6 +6,9 @@ After WWDC 2019 Apple [updated](https://developer.apple.com/app-store/review/gui
 
 I made class to help developers & community save time and comply with the App Store Guidelines.
 
+![WWDC App](wwdc-app.png)
+![Send App Usage Permission](screenshot1.png)
+
 ## Installation
 
 Just drag and drop it to your project.
@@ -79,7 +82,7 @@ switch(AppUsagePermission.status()){
   }
 ```
 
- ### Remove recorded value
+ ### Reset saved value
   ```swift 
      AppUsagePermission.resetValue()
   ``` 
