@@ -64,13 +64,7 @@ switch(AppUsagePermission.status()){
  ### Quck access functions
  ```swift 
   if AppUsagePermission.isAsked(){
-    print("Dalogue has been already presented")
-  }
-```
-
-```swift 
-  if AppUsagePermission.isAllowed(){
-    print("Send App Data Usage is allowed")
+    print("Dalogue has been already presented to user")
   }
 ```
 
