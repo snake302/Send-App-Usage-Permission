@@ -1,5 +1,4 @@
-# Send-App-Usage-Permission
-App Usage Permission Alert to comply with the new App Store Guidelines
+# Send App Usage Permission
 
 After WWDC 2019 Apple [updated](https://developer.apple.com/app-store/review/guidelines/#5.1) the App Store Guidelines 
 > Guideline 5.1.1(i). Apps must get consent for data collection, even if the data is considered anonymous at the time of or immediately following collection.
